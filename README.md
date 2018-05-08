@@ -24,7 +24,7 @@ Vue.component('data-table', require('./components/datatable/DataTable.vue'));
 
 Create Datatable Controller.
 ``` bash
-php artisan datatable:controller CategoryController App\Model\Category
+php artisan datatable:controller CategoryController App/Model/Category
 ```
 
 View Table
